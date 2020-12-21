@@ -1,10 +1,10 @@
 # swf-flow-java18-sample
 
 ## What is this? 
-This project show a sample of using AWS SWF Flow with Java 1.8
+This project showS a sample of using AWS SWF Flow with Java 1.8
 
 ## Why ?
-I've tried using AWS SWF Flow framework and had to tinker with it quite bit to get it right.  
+I've tried using the AWS SWF Flow Framework and had to tinker with it quite bit to get it right.  
 You can read the history in this [Stack Overflow Thread](http://stackoverflow.com/questions/9392655/how-to-consume-amazon-swf/28843218#28843218)  
 So puting this sample together to save future SWF Flow explorers some time.  
 
